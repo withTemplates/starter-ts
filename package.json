@@ -21,6 +21,6 @@
   "devDependencies": {
     "@kovsu/eslint-config-ts": "^0.2.0",
     "tsup": "^7.1.0",
-    "vitest": "^0.33.0"
+    "vitest": "^0.34.0"
   }
 }
