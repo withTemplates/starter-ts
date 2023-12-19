@@ -16,12 +16,10 @@
     "coverage": "vitest run --coverage",
     "typecheck": "tsc --noEmit"
   },
-  "dependencies": {
-    "eslint": "^8.46.0"
-  },
   "devDependencies": {
-    "@kovsu/eslint-config-ts": "^0.2.0",
+    "@antfu/eslint-config": "^2.4.6",
     "@types/node": "^20.4.5",
+    "eslint": "^8.56.0",
     "tsup": "^8.0.0",
     "typescript": "^5.1.6",
     "vitest": "^1.0.0"
